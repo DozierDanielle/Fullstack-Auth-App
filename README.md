@@ -368,7 +368,7 @@ Authorization: Bearer YOUR\_TOKEN
 
 
 
-Developed by Emir 🚀
+Developed by Tanika 🚀
 
 
 
